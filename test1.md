@@ -16,6 +16,7 @@ $$\sigma^{2} = \frac{1}{N}\sum_{i=1}^N(x_{i}- \mu)^{2}$$
 | 셀7   | 셀8   | 셀9   |
 
 
-- 이미지 출력 : 
+- 이미지 출력 : <img src="https://s.pstatic.net/static/www/mobile/edit/20240805_1095/upload_1722820902326S0feF.png">
 
-<img src="https://s.pstatic.net/static/www/mobile/edit/20240805_1095/upload_1722820902326S0feF.png">
+- URL 출력: [html](https://www.naver.com/)
+
